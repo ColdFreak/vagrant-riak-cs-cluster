@@ -10,7 +10,7 @@ UBUNTU = {
   url: "http://opscode-vm-bento.s3.amazonaws.com/vagrant/virtualbox/opscode_ubuntu-12.04_chef-provisionerless.box"
 }
 
-OS = UBUNTU
+OS = CENTOS
 
 options = {
   :nodes => 1,
